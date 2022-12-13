@@ -23,3 +23,11 @@ describe('DoctorViewPatientComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+function beforeEach(arg0: any) {
+  throw new Error('Function not implemented.');
+}
+
+function expect(component: DoctorViewPatientComponent) {
+  throw new Error('Function not implemented.');
+}
+
